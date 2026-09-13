@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="container">
-    <h1>😂 Meme Generator</h1>
+    <h1>😂 Meme-Generator</h1>
     <p>Create a simple meme using Tomcat + Java Servlet + Maven.</p>
 
     <form action="${pageContext.request.contextPath}/generate" method="get">
